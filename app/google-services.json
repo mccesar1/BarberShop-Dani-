@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766131133098",
+    "project_id": "fir-dani-dd87e",
+    "storage_bucket": "fir-dani-dd87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766131133098:android:ab3b30e4856a4ee9acced3",
+        "android_client_info": {
+          "package_name": "com.example.firebasedani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766131133098-ppbe9t9el1vc5b60uut93u80dkbrnr1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJuoZXgLDIHSSDdqXPMR7stD2CBNe65oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766131133098-ppbe9t9el1vc5b60uut93u80dkbrnr1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
